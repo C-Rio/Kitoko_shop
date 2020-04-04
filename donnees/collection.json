@@ -1,0 +1,84 @@
+{
+  "collection" : [
+    {
+      "nom": "Montre Bracelet Cuir",
+      "prix": 30,
+      "image": "https://images.pexels.com/photos/179909/pexels-photo-179909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["montre"],
+      "couleur": ["or", "rose"],
+      "note": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["accessoires", "montres"]
+    },
+    {
+      "nom": "Trench Jaune",
+      "prix": 99,
+      "image": "../images/DSCN0117.JPG",
+      "motcle": ["trench"],
+      "couleur": ["jaune"],
+      "note": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["hauts", "vestes"]
+    },
+    {
+      "nom": "Sneakers Mid Vertes",
+      "prix": 60,
+      "image": "https://images.pexels.com/photos/934069/pexels-photo-934069.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["chaussures"],
+      "couleur": ["vert"],
+      "note": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["chaussures", "sneakers"]
+    },
+    {
+      "nom": "Classic Jeans",
+      "prix": 35,
+      "image": "https://images.pexels.com/photos/40861/jeans-pants-clothing-blue-40861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["jean"],
+      "couleur": ["bleu"],
+      "note": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["bas", "pantalons"]
+    },
+    {
+      "nom": "Pull Trico",
+      "prix": 40,
+      "image": "https://images.pexels.com/photos/45982/pexels-photo-45982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["pull", "trico"],
+      "couleur": ["bleu", "blanc"],
+      "note": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["hauts", "pulls"]
+    },
+    {
+      "nom": "Veste Tendance",
+      "prix": 150,
+      "image": "https://images.pexels.com/photos/756914/pexels-photo-756914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["veste"],
+      "couleur": ["noir", "orange"],
+      "note": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["hauts", "vestes"]
+    },
+    {
+      "nom": "Jean Grunge",
+      "prix": 55,
+      "image": "https://images.pexels.com/photos/533733/pexels-photo-533733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["jean"],
+      "couleur": ["bleu"],
+      "note": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["bas", "pantalons"]
+    },
+    {
+      "nom": "Bottes",
+      "prix": 70,
+      "image": "https://images.pexels.com/photos/320570/pexels-photo-320570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "motcle": ["bottes"],
+      "couleur": ["marron", "beige"],
+      "note": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "categorie": ["chaussures", "bottes"]
+    }
+  ]
+}
